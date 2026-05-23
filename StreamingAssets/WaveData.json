@@ -3,7 +3,7 @@
         {
             "id": "Stage1",
             "spawnWaves": 10,
-            "randomWaves": false,
+            "randomWaves": true,
             "waves": [
                 { "display": "3 + 5", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "7", "9", "6", "10" ], "correct": [ "8" ] },
                 { "display": "2 + 7", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "8", "10", "5", "12" ], "correct": [ "9" ] },
@@ -20,7 +20,7 @@
         {
             "id": "Stage2",
             "spawnWaves": 10,
-            "randomWaves": false,
+            "randomWaves": true,
             "waves": [
                 { "display": "12 + 7", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "18", "20", "17", "21" ], "correct": [ "19" ] },
                 { "display": "15 + 4", "spawnStyle": "normal", "destroyStyle": "chainBlast", "elements": [ "18", "20", "17", "16" ], "correct": [ "19" ] },
@@ -37,7 +37,7 @@
         {
             "id": "Stage3",
             "spawnWaves": 10,
-            "randomWaves": false,
+            "randomWaves": true,
             "waves": [
                 { "display": "45 + 38", "spawnStyle": "zig-zac", "destroyStyle": "chainBlast", "elements": [ "73", "80", "78", "85" ], "correct": [ "83" ] },
                 { "display": "67 + 24", "spawnStyle": "zig-zac", "destroyStyle": "chainBlast", "elements": [ "90", "92", "81", "93" ], "correct": [ "91" ] },
